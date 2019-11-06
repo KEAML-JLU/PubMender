@@ -7,7 +7,7 @@ Due to capacity limit of github repository, we provide a sample of train data an
 The dependencies of the source code are:
 
 * python==2.7
-* pytorch==0..3.1
+* pytorch==0.3.1
 
 If our work is helpful for your research, please cite our paper by
 
