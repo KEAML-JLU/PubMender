@@ -1,4 +1,4 @@
-# The Source Code of Biomedical Publication Recommender System **[Pubmender](https://www.keaml.cn:8081/)**
+# The Source Code of Biomedical Publication Recommender System **[Pubmender](https://www.keaml.cn/abc)**
 
 The `src` directory includes the source code of Pubmender's recommend engine's training module.
 
